@@ -1,0 +1,151 @@
+body{
+    width:500px;
+    display:flex;
+    justify-content:center;
+    align-items: center; 
+}
+.main{
+    /* border:1px solid black; */
+    width:90%;
+    padding:0;
+    padding-top:15px;
+    border:none;
+}
+.name h1{
+    text-transform:uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 1px;
+    font-weight:500;
+    font-size:25px;
+}
+.name h3{
+    text-transform: uppercase;
+    font-weight: 100;
+    color:rgb(58, 57, 57);
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size:15px;
+}
+.name{
+    border-bottom:2px solid black;
+}
+.container{
+    margin-top:20px;
+    display:flex;
+}
+.sub-con-1{
+    flex:1;
+}
+.para h2{
+    text-transform:uppercase;
+    font-weight:bold;
+    font-size:12px;
+    padding-bottom:2px;
+    margin-left:5px;
+    border-bottom: 1px solid black;
+    width:100px;
+}
+.para-1{
+    margin-bottom: 10px;
+}
+.para-2{
+    margin-bottom: 20px;
+}
+.heading-1{
+    margin: 8px 0 10px 5px;
+    font-weight: lighter;
+    font-size:11px;
+}
+.heading-1 p{
+    margin-bottom:5px;
+}
+.heading-1 i{
+    margin-right: 8px;
+}
+.heading-1 i:nth-child(3){
+    margin-right: 10px;
+}
+.heading-2{
+    margin: 8px 0 10px 20px;
+}
+.heading-2 ul li{
+    font-weight: 500;
+    margin-bottom:5px;
+    font-size:12px;
+}
+.heading-3 p{
+    margin-bottom:2px;  
+    text-transform: capitalize; 
+    font-size:12px;
+}
+.heading-3 p:nth-child(2){
+    margin-top:2px;
+    font-size: 11px;
+    font-weight: 300;   
+}
+.heading-3 p:nth-child(4){
+    margin-top:5px;
+    font-size: 11px;   
+}
+.heading-3 p:nth-child(6){
+    margin-top:5px;
+    font-size: 11px;
+}
+.heading-3 p:nth-child(5){
+    font-size: 10px;   
+}
+.heading-3 p:nth-child(7){
+    font-size:10px;
+}
+.heading-4{
+    margin: 5px 0 5px 20px;
+}
+.para h3{
+    margin:3px 0 0 7px;
+    font-weight: 300;
+    font-size:15px
+}
+.heading-4 a{
+    text-decoration: none;
+    color:black;
+    font-size:12px;
+    margin-left:-8px;
+}
+.heading-5{
+    margin: 8px 0 10px 20px;
+}
+.heading-5 ul li{
+    margin-top: 3px;
+    font-size:12px;
+    text-transform: capitalize;
+}
+.sec-para h2{
+    text-transform:uppercase;
+    font-weight:bold;
+    font-size:12px;
+    padding-bottom:2px;
+    margin-left:5px;
+    border-bottom: 1px solid black;
+    width:100px;
+}
+.sec-para .space-1,.space-2,.space-3,.space-4{
+    margin: 3px 0 5px 5px;
+}
+.space-1,.space-2,.space-3,.space-4 p{
+    font-size:12px
+}
+.sec-para ul{
+    font-weight: 500;
+    font-size:12px;
+    margin: 10px 0 0 20px;
+}
+.sec-para h3{
+    margin:5px 0 3px 3px;
+    font-weight:600;
+    font-size:12px;
+    text-transform:uppercase;
+}
+.space-3 p:nth-child(2){
+    margin-top: 5px;
+} 
