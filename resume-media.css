@@ -50,7 +50,7 @@ body{
     margin-bottom: 10px;
 }
 .para-2{
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 .heading-1{
     margin: 8px 0 10px 5px;
@@ -102,7 +102,7 @@ body{
     margin: 5px 0 5px 20px;
 }
 .para h3{
-    margin:3px 0 0 7px;
+    margin:6px 0 0 7px;
     font-weight: 300;
     font-size:15px
 }
@@ -117,7 +117,7 @@ body{
 }
 .heading-5 ul li{
     margin-top: 3px;
-    font-size:12px;
+    font-size:8px;
     text-transform: capitalize;
 }
 .sec-para h2{
@@ -128,22 +128,23 @@ body{
     margin-left:5px;
     border-bottom: 1px solid black;
     width:100px;
+    margin-bottom:10px;
 }
 .sec-para .space-1,.space-2,.space-3,.space-4{
     margin: 3px 0 5px 5px;
 }
 .space-1,.space-2,.space-3,.space-4 p{
-    font-size:12px
+    font-size:11px
 }
 .sec-para ul{
     font-weight: 500;
-    font-size:12px;
-    margin: 10px 0 0 20px;
+    font-size:8px;
+    margin: 10px 0 0 14px;
 }
 .sec-para h3{
-    margin:5px 0 3px 3px;
+    margin:8px 0 13px 3px;
     font-weight:600;
-    font-size:12px;
+    font-size:11px;
     text-transform:uppercase;
 }
 .space-3 p:nth-child(2){
