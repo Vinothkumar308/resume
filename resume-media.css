@@ -154,5 +154,5 @@ body{
     margin-top: 5px;
 } 
 .sec-para .heading h3{
-    font-size:11px;
+    font-size:11px !important;
 }
