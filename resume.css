@@ -1,0 +1,134 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    width:100vw;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.main{
+    border:1px solid black;
+    width:90%;
+    padding:35px;
+}
+.name{
+    border-bottom:3px solid black;
+}
+.name h1{
+    text-transform:uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+    font-weight:500;
+}
+.name h3{
+    text-transform: uppercase;
+    font-weight: 100;
+    color:rgb(58, 57, 57);
+    letter-spacing: 2px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.container{
+    margin-top:20px;
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap:15px;
+}
+.para h2{
+    text-transform:uppercase;
+    font-weight:bold;
+    font-size:20px;
+    padding-bottom:2px;
+    margin-left:5px;
+    border-bottom: 1px solid black;
+    width:250px;
+}
+.para-1{
+    margin-bottom: 20px;
+}
+.para-2{
+    margin-bottom: 50px;
+}
+.heading-1{
+    margin: 10px 0 15px 10px;
+    font-weight: bolder;
+    font-size:14px;
+}
+.heading-1 p{
+    margin-bottom:5px;
+}
+.heading-1 i{
+    margin-right: 16px;
+}
+.heading-1 i:nth-child(3){
+    margin-right: 18px;
+}
+.heading-2{
+    margin: 10px 0 15px 28px;
+}
+.heading-2 ul li{
+    font-weight: 500;
+    margin-bottom:5px;
+    font-size:15px;
+}
+.heading-3{
+    margin: 10px 0 15px 10px;
+}
+.heading-3 p{
+    margin-bottom:2px;  
+    text-transform: capitalize; 
+}
+.heading-3 p:nth-child(4){
+    margin-top:10px;
+}
+.heading-3 p:nth-child(7){
+    margin-top:10px;
+}
+.heading-4{
+    margin: 10px 0 15px 10px;
+}
+.para h3{
+    margin:10px 0 3px 10px;
+    font-weight: 300;
+    font-size:20px
+}
+.heading-4 a{
+    text-decoration: none;
+    color:black;
+    font-size:16px;
+}
+.heading-5{
+    margin: 10px 0 15px 28px;
+}
+.heading-5 ul li{
+    margin-top: 3px;
+}
+.sec-para h2{
+    text-transform:uppercase;
+    font-weight:bold;
+    font-size:20px;
+    padding-bottom:2px;
+    margin-left:5px;
+    border-bottom: 1px solid black;
+    width:250px;
+}
+.sec-para .space-1,.space-2,.space-3,.space-4{
+    margin: 10px 0 10px 15px;
+}
+.sec-para ul{
+    font-weight: 500;
+    font-size:15px;
+    margin: 10px 0 0 30px;
+}
+.sec-para h3{
+    margin:10px 0 3px 14px;
+    font-weight:600;
+    font-size:16px;
+    text-transform:uppercase;
+}
+.space-3 p:nth-child(2){
+    margin-top: 8px;
+} 
