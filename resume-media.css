@@ -52,6 +52,9 @@ body{
 .para-2{
     margin-bottom: 40px;
 }
+.para-4 h2{
+    font-size:11px !important;
+}
 .heading-1{
     margin: 8px 0 10px 5px;
     font-weight: lighter;
