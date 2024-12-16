@@ -52,9 +52,6 @@ body{
 .para-2{
     margin-bottom: 40px;
 }
-.para-4 h2{
-    font-size:11px !important;
-}
 .heading-1{
     margin: 8px 0 10px 5px;
     font-weight: lighter;
@@ -120,6 +117,7 @@ body{
 }
 .heading-5 ul li{
     margin-top: 3px;
+    /* margin-bottom:3px; */
     font-size:8px;
     text-transform: capitalize;
 }
@@ -167,3 +165,9 @@ body{
 .space-3 p:nth-child(2){
     margin-top: 5px;
 } 
+.spe{
+    margin-top:20px !important;
+}
+.spe-ach{
+    margin-top:18px !important;
+}
