@@ -50,7 +50,7 @@ body{
     margin-bottom: 10px;
 }
 .para-2{
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 .heading-1{
     margin: 8px 0 10px 5px;
@@ -96,7 +96,7 @@ body{
     font-size: 11px;   
 }
 .heading-3 p:nth-child(6){
-    margin-top:5px;
+    margin-top:1px;
     font-size: 11px;
 }
 .heading-3 p:nth-child(5){
@@ -110,14 +110,18 @@ body{
 }
 .para h3{
     margin:6px 0 0 7px;
-    font-weight: 300;
-    font-size:14px
+    font-weight:600;
+    font-size:11px;
+    text-transform:uppercase;
 }
 .heading-4 a{
     text-decoration: none;
     color:black;
     font-size:11px;
     margin-left:-8px;
+}
+.para-5{
+    margin-top:20px;
 }
 .heading-5{
     margin: 8px 0 10px 20px;
@@ -177,7 +181,4 @@ body{
 }
 .spe-ach{
     margin-top:18px !important;
-}
-.para-5{
-    margin-top:15px;
 }
