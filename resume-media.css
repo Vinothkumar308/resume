@@ -59,7 +59,10 @@ body{
 }
 .heading-1 .f1{
     display:flex;
-    font-size:11px;
+}
+.heading-1 .f2{
+    margin-left:20px;
+    margin-top:-4px;
 }
 .heading-1 p{
     margin-bottom:5px;
