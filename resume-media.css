@@ -57,6 +57,10 @@ body{
     font-weight: lighter;
     font-size:11px;
 }
+.heading-1 .f1{
+    display:flex;
+    font-size:11px;
+}
 .heading-1 p{
     margin-bottom:5px;
 }
