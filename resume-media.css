@@ -81,8 +81,7 @@ body{
     margin-bottom:5px;
     font-size:12px;
 }
-.heading-3 p{
-    margin-bottom:2px;  
+.heading-3 p{ 
     text-transform: capitalize; 
     font-size:11px;
 }
@@ -93,7 +92,7 @@ body{
 }
 .heading-3 p:nth-child(4){
     font-size: 11px;
-    margin-top:-3px;
+    margin-top:-3px ! important;
 }
 .heading-3 p:nth-child(6){
     margin-top:1px;
